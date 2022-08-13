@@ -5,7 +5,7 @@
   "Ident": "stargate_rpg",
   "Schema": 1,
   "HasAssets": true,
-  "AssetsPath": "",
+  "AssetsPath": "/images/*",
   "ResourcePaths": [],
   "HasCode": true,
   "CodePath": "/code/",
